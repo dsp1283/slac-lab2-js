@@ -1,1 +1,3 @@
-The JS script should print a secret message now
+cd slack-lab2-js
+docker build -t slack-lab-js
+docker run slack-lab-js
