@@ -1,3 +1,2 @@
-cd slack-lab2-js
-docker build -t slack-lab-js
-docker run slack-lab-js
+change Sam to your name in sam.js
+optionally, also change sam.js to <yourName>.js and update Dockerfile to new js file name
