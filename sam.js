@@ -1,1 +1,1 @@
-print("Sam was here!!!");
+console.log("Sam was here!!!");
